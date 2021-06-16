@@ -1,0 +1,251 @@
+Country,Interest,Code
+Åland Islands,29,AX
+Afghanistan,23,AF
+Albania,25,AL
+Algeria,7,DZ
+American Samoa,,AS
+Andorra,45,AD
+Angola,11,AO
+Anguilla,25,AI
+Antarctica,,AQ
+Antigua & Barbuda,42,
+Argentina,18,AR
+Armenia,17,AM
+Aruba,47,AW
+Australia,42,AU
+Austria,54,AT
+Azerbaijan,11,AZ
+Bahamas,29,BS
+Bahrain,20,BH
+Bangladesh,16,BD
+Barbados,32,BB
+Belarus,6,BY
+Belgium,30,BE
+Belize,16,BZ
+Benin,62,BJ
+Bermuda,61,BM
+Bhutan,19,BT
+Bolivia,11,BO
+Bosnia & Herzegovina,12,BA
+Botswana,51,BW
+Bouvet Island,,BV
+Brazil,23,BR
+British Indian Ocean Territory,,IO
+British Virgin Islands,19,
+Brunei,30,
+Bulgaria,19,BG
+Burkina Faso,22,BF
+Burundi,23,BI
+Côte d’Ivoire,27,
+Cambodia,17,KH
+Cameroon,44,CM
+Canada,41,CA
+Cape Verde,15,CV
+Caribbean Netherlands,72,
+Cayman Islands,64,KY
+Central African Republic,7,CF
+Chad,7,TD
+Chile,10,CL
+China,6,CN
+Christmas Island,,CX
+Cocos (Keeling) Islands,,CC
+Colombia,20,CO
+Comoros,,KM
+Congo - Brazzaville,15,
+Congo - Kinshasa,13,
+Cook Islands,,CK
+Costa Rica,16,CR
+Croatia,25,HR
+Cuba,71,CU
+Curaçao,63,
+Cyprus,41,CY
+Czechia,36,CZ
+Denmark,21,DK
+Djibouti,10,DJ
+Dominica,17,DM
+Dominican Republic,16,DO
+Ecuador,10,EC
+Egypt,6,EG
+El Salvador,15,SV
+Equatorial Guinea,22,GQ
+Eritrea,,ER
+Estonia,35,EE
+Eswatini,74,
+Ethiopia,21,ET
+Falkland Islands (Islas Malvinas),,
+Faroe Islands,50,FO
+Fiji,11,FJ
+Finland,25,FI
+France,15,FR
+French Guiana,11,GF
+French Polynesia,16,PF
+French Southern Territories,,TF
+Gabon,13,GA
+Gambia,15,GM
+Georgia,24,GE
+Germany,40,DE
+Ghana,58,GH
+Gibraltar,51,GI
+Greece,14,GR
+Greenland,56,GL
+Grenada,23,GD
+Guadeloupe,9,GP
+Guam,52,GU
+Guatemala,9,GT
+Guernsey,28,GG
+Guinea,7,GN
+Guinea-Bissau,8,GW
+Guyana,16,GY
+Haiti,14,HT
+Heard & McDonald Islands,,
+Honduras,8,HN
+Hong Kong,29,HK
+Hungary,16,HU
+Iceland,36,IS
+India,20,IN
+Indonesia,16,ID
+Iran,9,IR
+Iraq,4,IQ
+Ireland,37,IE
+Isle of Man,42,IM
+Israel,19,IL
+Italy,18,IT
+Jamaica,18,JM
+Japan,2,JP
+Jersey,41,JE
+Jordan,7,JO
+Kazakhstan,5,KZ
+Kenya,29,KE
+Kiribati,,KI
+Kosovo,44,XK
+Kuwait,15,KW
+Kyrgyzstan,5,KG
+Laos,18,
+Latvia,24,LV
+Lebanon,23,LB
+Lesotho,63,LS
+Liberia,10,LR
+Libya,6,
+Liechtenstein,64,LI
+Lithuania,23,LT
+Luxembourg,39,LU
+Macao,16,MO
+Madagascar,21,MG
+Malawi,16,MW
+Malaysia,28,MY
+Maldives,30,MV
+Mali,8,ML
+Malta,43,MT
+Marshall Islands,21,MH
+Martinique,10,MQ
+Mauritania,9,MR
+Mauritius,19,MU
+Mayotte,7,YT
+Mexico,11,MX
+Micronesia,,
+Moldova,14,
+Monaco,22,MC
+Mongolia,29,MN
+Montenegro,15,ME
+Montserrat,,MS
+Morocco,11,MA
+Mozambique,11,MZ
+Myanmar (Burma),15,
+Namibia,59,NA
+Nauru,,NR
+Nepal,23,NP
+Netherlands,51,NL
+New Caledonia,12,NC
+New Zealand,32,NZ
+Nicaragua,9,NI
+Niger,13,NE
+Nigeria,100,NG
+Niue,,NU
+Norfolk Island,,NF
+North Korea,,
+North Macedonia,28,
+Northern Mariana Islands,20,MP
+Norway,30,NO
+Oman,11,OM
+Pakistan,29,PK
+Palau,34,PW
+Palestine,8,
+Panama,21,PA
+Papua New Guinea,34,PG
+Paraguay,13,PY
+Peru,11,PE
+Philippines,26,PH
+Pitcairn Islands,,
+Poland,18,PL
+Portugal,20,PT
+Puerto Rico,12,PR
+Qatar,22,QA
+Réunion,10,
+Romania,21,RO
+Russia,7,RU
+Rwanda,18,RW
+São Tomé & Príncipe,,
+Samoa,18,WS
+San Marino,26,SM
+Saudi Arabia,7,SA
+Senegal,11,SN
+Serbia,17,RS
+Seychelles,25,SC
+Sierra Leone,11,SL
+Singapore,48,SG
+Sint Maarten,40,SX
+Slovakia,23,SK
+Slovenia,47,SI
+Solomon Islands,16,SB
+Somalia,16,SO
+South Africa,60,ZA
+South Georgia & South Sandwich Islands,,
+South Korea,10,KR
+South Sudan,12,SS
+Spain,24,ES
+Sri Lanka,15,LK
+St Barthélemy,8,
+St Helena,50,
+St Kitts & Nevis,33,
+St Lucia,21,
+St Martin,39,
+St Pierre & Miquelon,26,
+St Vincent & the Grenadines,15,
+Sudan,4,SD
+Suriname,22,SR
+Svalbard & Jan Mayen,,
+Sweden,27,SE
+Switzerland,51,CH
+Syria,4,
+Taiwan,5,
+Tajikistan,4,TJ
+Tanzania,15,
+Thailand,11,TH
+Timor-Leste,4,TL
+Togo,50,TG
+Tokelau,,TK
+Tonga,,TO
+Trinidad & Tobago,25,
+Tunisia,14,TN
+Turkey,34,TR
+Turkmenistan,9,TM
+Turks & Caicos Islands,33,
+Tuvalu,,TV
+Uganda,24,UG
+Ukraine,8,UA
+United Arab Emirates,35,AE
+United Kingdom,30,GB
+United States,33,US
+Uruguay,13,UY
+US Outlying Islands,,
+US Virgin Islands,27,
+Uzbekistan,10,UZ
+Vanuatu,13,VU
+Vatican City,,VA
+Venezuela,24,VE
+Vietnam,17,VN
+Wallis & Futuna,,
+Western Sahara,23,EH
+Yemen,2,YE
+Zambia,19,ZM
+Zimbabwe,31,ZW
